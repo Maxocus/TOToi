@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ab47b254c22e8743b69caa656724922, type: 3}
+  m_Name: "\u7CBE\u917F\u5564\u9152"
+  m_EditorClassIdentifier: 
+  drinkName: 1
+  compose:
+  - {fileID: 11400000, guid: 3fb7f265848351f49a85184cdc3564e1, type: 2}
+  - {fileID: 11400000, guid: b19049ecbf2ba6a4192b8e3fb58cc12c, type: 2}
+  - {fileID: 11400000, guid: f65070ab86eefbf43a1c6936251067bb, type: 2}
+  - {fileID: 11400000, guid: 3cb09906dfbc6ae45b9afc047bfe0894, type: 2}
+  icon: {fileID: 21300000, guid: 598b9b64a7a2fc24393175a9464325cd, type: 3}
+  drinkPrefab: {fileID: 5547989934195494942, guid: f7859da6c979db74a9dcd96998515aa1,
+    type: 3}
+  money: 90
+  context: "\u7425\u73C0\u8272\u7684\u9152\u6DB2\u4E2D\uFF0C\u6D6E\u52A8\u7740\u7EC6\u817B\u7684\u6CE1\u6CAB\uFF0C\u5B9B\u5982\u8574\u85CF\u4E86\u4E00\u7247\u4E30\u6536\u7684\u9EA6\u7530\uFF0C\u6BCF\u4E00\u53E3\u90FD\u662F\u5320\u5FC3\u7684\u5473\u9053\u3002"
+  needTime: 5
